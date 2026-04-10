@@ -83,7 +83,4 @@ Customer Lifetime Value is an important business metric that estimates how much 
 - Improve UI/UX of the application  
 
 ---
-
-## 🤝 Connect
-
 If you have suggestions or feedback, feel free to reach out!
